@@ -16,7 +16,7 @@ exports.CARPARTS = [{
         "inStock": 4,
         "price": 9.99,
         "image": "/images/shocks.jpg",
-        "featured": true,
+        "featured": false,
         "quantity": 0
     },
     {
